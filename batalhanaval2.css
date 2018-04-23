@@ -1,0 +1,9 @@
+ body {
+    background-color: #20B2AA;
+}
+h1 {
+    color: #008080;
+    font-family: verdana;
+    font-size: 300%;
+    text-shadow: 0 0 60px #FFFFFF
+}
